@@ -7,10 +7,9 @@ Database: Hive (for local storage of friends' data)
 UI: Designed with a clean, user-friendly interface
 Platform: Android (with potential support for other platforms)
 Learning Source: Personal project based on learning and hands-on experimentation
+
 📂 Project Structure
-bash
-Copy
-Edit
+
 ├── android/ # Android-specific files
 ├── assets/ # Image and asset files
 ├── build/ # Build output
@@ -30,6 +29,7 @@ Edit
 ├── pubspec.lock # Locked dependencies for the project
 ├── test/ # Unit tests
 └── README.md # Project documentation
+
 🌟 Features
 Add Friends: Add a friend with a name, description, and a photo.
 View Friends: View detailed information about each friend.
